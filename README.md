@@ -25,7 +25,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFF00,33:FF6600,66:00FFFF,100:FF00FF&height=100&section=footer" width="100%" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFF00,33:FF6600,66:00FFFF,100:FF00FF&height=100&section=header" width="100%" />
 
-<p><b>💎 E X E C U T I V E &nbsp; D A S H B O A R D 💎</b></p>
+<p><b>💎 E X E C U T I V E &nbsp; D A S H B O A R DD 💎</b></p>
 <br/>
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=maxstev72&show_icons=true&theme=dracula&hide_border=true&title_color=FFFF00&icon_color=00FFFF&text_color=FF6600&border_color=FFFF00&rank_icon=github&cache_seconds=86400" height="165" />
